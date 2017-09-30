@@ -16,6 +16,7 @@ Required libraries:
 * Bounce2           (https://github.com/thomasfredericks/Bounce2)
 * OneWire           (https://github.com/PaulStoffregen/OneWire)
 * DallasTemperature (https://github.com/milesburton/Arduino-Temperature-Control-Library)
+
 I recommend to read http://www.electroschematics.com/12459/arduino-i2c-lcd-backpack-introductory-tutorial/ to correctly set up the LiquidCrystal_I2C library.
 
 # Usage
